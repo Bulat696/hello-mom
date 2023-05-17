@@ -1,0 +1,15 @@
+h1 {
+    font-size: 30px;
+    color: blueviolet;
+}
+
+.sms {
+    font-size: 20px;
+    color: darkturquoise;
+}
+
+.output {
+    font-size: 30px;
+    font-weight: bold;
+    color: darkgreen;
+}
